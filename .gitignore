@@ -1,0 +1,41 @@
+# Ignore Python compiled files
+*.py[cod]
+
+# Ignore virtual environment files
+env/
+venv/
+
+# Ignore ENV files containing secrets
+.env
+
+# Ignore log files  
+*.log
+
+# Ignore Sagemaker files
+sagemaker-training/
+
+# Ignore DS STORE files in Mac 
+.DS_Store
+
+# Ignore Eclipse files
+.project
+.classpath
+.pydevproject
+
+# Ignore IDE-specific files
+*.sublime-workspace
+
+# Ignore unit test/coverage reports
+coverage.xml      
+htmlcov/                     
+.tox/          
+.pytest_cache/        
+nosetests.xml
+
+# Ignore Python egg files    
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore data folder
+data/
