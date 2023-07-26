@@ -27,6 +27,7 @@ It is a kind of easy application to let everyone can make a easy assistant in th
 ### 1. Clone project
 
 ```bash
+git clone git@github.com:Lucien1999s/assistant-ai-easy.git
 ```
 
 ### 2. Install requirements
